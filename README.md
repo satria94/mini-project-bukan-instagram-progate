@@ -1,1 +1,3 @@
-# mini-project-bukan-instagram-progate
+# Mini Project Komunitas Progate Indonesia
+
+## &copyright 2020
