@@ -1,3 +1,2 @@
 # Mini Project Komunitas Progate Indonesia
-
-## &copyright 2020
+ &copyright 2020
