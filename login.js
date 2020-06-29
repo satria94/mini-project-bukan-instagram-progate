@@ -26,3 +26,6 @@ for(i =0; i <= x.length; i++) {
 	}
 }
 
+function gotoDashboard() {
+window.location.replace("http://localhost:8080/index.html");
+}
